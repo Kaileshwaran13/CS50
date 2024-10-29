@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT(title)) AS "UNIQUE TITLE" FROM episodes;
